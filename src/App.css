@@ -18,6 +18,23 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+#puppyCard {
+  background-color: rgb(86, 85, 85);
+  border: 2px solid white;
+  padding: 20px;
+  width: 350px;
+  margin: 0;
+  text-align: left;
+}
+
+#puppyCard ul {
+  padding: 0;
+}
+
+#puppyCard li {
+  list-style: none;
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
